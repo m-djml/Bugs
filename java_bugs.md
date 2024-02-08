@@ -1,4 +1,4 @@
-#Bulk Java Bugs
+<h1>Bulk Java Bugs</h1>
 
 1. "Cannot access 'java.lang.Object'" :
 - when : happened after installing new IDE theme (?)
