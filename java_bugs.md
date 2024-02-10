@@ -9,3 +9,6 @@
 - when : running tests
 - env : ^^^
 - solution : import "org.junit.jupiter.api.Test;" instead of "import org.junit.Test;" + declare "void testName()" instead of "public void testName()"
+
+### 3. How to properly mock a class :
+follow this tutorial : https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockito-junit-example/ 
